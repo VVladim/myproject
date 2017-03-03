@@ -1,0 +1,11 @@
+body {
+  background-color: pink; }
+
+.item {
+  width: 33%; }
+
+.item.w2 {
+  width: 16%; }
+
+.item.w3 {
+  width: 17%; }
